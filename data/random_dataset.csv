@@ -1,0 +1,501 @@
+Applicant ID,School Name,GPA,Degree,Location,Gender,Veteran status,Work authorization,Disability,Ethnicity,Role 1,Start 1,End 1,Role 2,Start 2,End 2,Role 3,Start 3,End 3,score
+1,Rhode Island School of Design,2.96,PhD,Fort Worth,M,0,0,1,Asian American & Pacific Islander,Human Resources Manager,12/19,12/19,Data Scientist,1/20,5/20,Software Engineer,6/20,9/20,4.93
+2,Salve Regina University,3.48,Master's,Columbus,F,1,1,0,Asian American & Pacific Islander,Human Resources Manager,2/19,9/19,Web Developer,10/19,10/19,Marketing Coordinator,11/19,11/19,4.28
+3,Roger Williams University,3.11,Bachelor's,Los Angeles,N/A,N/A,0,N/A,Black,Web Developer,3/15,5/15,Software Engineer,6/15,11/15,N/A,N/A,N/A,4.32
+4,Johnson & Wales University,3.57,Bachelor's,San Francisco,M,N/A,0,N/A,Native American,Product Manager,5/20,7/20,Graphic Designer,8/20,8/20,Marketing Coordinator,9/20,12/20,0.69
+5,Brown University,2.86,PhD,San Diego,F,N/A,1,1,White,Web Developer,2/19,3/19,Machine Learning Engineer,4/19,8/19,N/A,N/A,N/A,2.3
+6,Rhode Island College,2.66,Bachelor's,San Antonio,M,N/A,1,N/A,Other,Web Developer,8/15,10/15,N/A,N/A,N/A,N/A,N/A,N/A,1.32
+7,Roger Williams University,2.1,Bachelor's,Philadelphia,F,0,1,0,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.28
+8,Brown University,4.0,Bachelor's,Austin,N/A,1,0,0,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8.57
+9,Bryant University,2.6,Master's,Miami,F,1,1,1,Native American,Lawyer,11/22,11/22,Research Assistant,12/22,12/22,Research Assistant,1/23,1/23,9.77
+10,Providence College,3.61,Master's,Los Angeles,F,N/A,1,1,Other,Machine Learning Engineer,3/22,6/22,Product Manager,7/22,10/22,Web Developer,11/22,11/22,9.64
+11,Brown University,3.82,Master's,Houston,F,1,0,0,Asian American & Pacific Islander,Research Assistant,8/20,9/20,Machine Learning Engineer,10/20,10/20,Research Assistant,11/20,11/20,9.4
+12,Roger Williams University,3.16,Bachelor's,Phoenix,F,1,0,N/A,White,Human Resources Manager,1/22,5/22,Graphic Designer,6/22,12/22,Marketing Coordinator,1/23,5/23,3.53
+13,Brown University,3.29,PhD,Boston,N/A,N/A,1,N/A,Asian American & Pacific Islander,Machine Learning Engineer,8/21,12/21,Sales Representative,1/22,3/22,Lawyer,4/22,10/22,5.16
+14,Johnson & Wales University,2.9,Bachelor's,Philadelphia,M,0,1,1,Native American,Graphic Designer,5/21,6/21,Lawyer,7/21,8/21,N/A,N/A,N/A,1.01
+15,University of Rhode Island,3.11,Master's,San Francisco,N/A,0,0,N/A,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.38
+16,Providence College,2.95,PhD,San Francisco,M,0,0,N/A,Asian American & Pacific Islander,Web Developer,7/16,8/16,Human Resources Manager,9/16,9/16,N/A,N/A,N/A,2.0
+17,Bryant University,2.7,Master's,Boston,M,N/A,1,1,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.97
+18,Salve Regina University,3.33,PhD,Fort Worth,N/A,1,0,0,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1.83
+19,Roger Williams University,3.29,Bachelor's,Chicago,N/A,0,0,1,White,Data Scientist,9/18,10/18,Sales Representative,11/18,11/18,N/A,N/A,N/A,1.81
+20,University of Rhode Island,3.3,Master's,Philadelphia,F,N/A,1,1,Asian American & Pacific Islander,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.32
+21,Brown University,3.16,PhD,San Diego,M,N/A,1,N/A,Native American,Human Resources Manager,3/15,5/15,Lawyer,6/15,9/15,Sales Representative,10/15,10/15,9.27
+22,Rhode Island College,3.28,Master's,Jacksonville,F,N/A,0,1,Black,Sales Representative,1/15,11/15,Research Assistant,12/15,12/15,Lawyer,1/16,4/16,5.64
+23,University of Rhode Island,3.47,Bachelor's,Chicago,N/A,1,0,0,White,Lawyer,9/18,11/18,Data Scientist,12/18,12/18,Product Manager,1/19,4/19,0.04
+24,Brown University,3.49,Master's,San Jose,M,1,0,N/A,Asian American & Pacific Islander,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7.11
+25,New England Institute of Technology,3.03,Bachelor's,New York,F,1,1,N/A,White,Web Developer,5/22,9/22,Software Engineer,10/22,11/22,Machine Learning Engineer,12/22,12/22,0.36
+26,Johnson & Wales University,3.38,Bachelor's,Chicago,N/A,1,1,1,Black,Lawyer,12/17,12/17,Product Manager,1/18,3/18,Software Engineer,4/18,11/18,7.87
+27,Brown University,2.91,Bachelor's,New York,N/A,1,1,N/A,Black,Graphic Designer,7/15,11/15,N/A,N/A,N/A,N/A,N/A,N/A,6.98
+28,New England Institute of Technology,3.52,PhD,San Jose,F,0,0,N/A,Other,Data Scientist,5/21,12/21,Human Resources Manager,1/22,2/22,N/A,N/A,N/A,6.31
+29,Providence College,3.29,Bachelor's,San Jose,N/A,0,1,N/A,Black,Financial Analyst,4/15,6/15,Financial Analyst,7/15,10/15,Lawyer,11/15,12/15,7.2
+30,Rhode Island School of Design,3.3,PhD,Columbus,N/A,0,0,1,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.93
+31,Salve Regina University,2.77,PhD,Miami,N/A,0,0,1,Other,Machine Learning Engineer,10/15,10/15,Product Manager,11/15,12/15,Graphic Designer,1/16,2/16,7.42
+32,Johnson & Wales University,3.21,Master's,New York,N/A,0,0,N/A,Asian American & Pacific Islander,Financial Analyst,1/15,12/15,Graphic Designer,1/16,1/16,Human Resources Manager,2/16,4/16,6.92
+33,New England Institute of Technology,3.36,Bachelor's,Philadelphia,M,0,0,1,Native American,Human Resources Manager,4/21,11/21,N/A,N/A,N/A,N/A,N/A,N/A,9.27
+34,Bryant University,2.68,PhD,San Diego,M,N/A,1,0,Native American,Graphic Designer,3/16,11/16,Web Developer,12/16,12/16,Sales Representative,1/17,6/17,9.43
+35,Johnson & Wales University,3.38,Master's,New York,N/A,1,1,1,Other,Human Resources Manager,11/17,11/17,Graphic Designer,12/17,12/17,Graphic Designer,1/18,2/18,3.9
+36,Providence College,2.37,Master's,Chicago,N/A,1,1,1,Black,Lawyer,3/17,10/17,Financial Analyst,11/17,12/17,Research Assistant,1/18,5/18,9.14
+37,University of Rhode Island,3.6,Bachelor's,San Antonio,F,N/A,1,1,Other,Product Manager,12/17,12/17,Product Manager,1/18,2/18,Lawyer,3/18,7/18,4.3
+38,Roger Williams University,2.58,Master's,Los Angeles,F,N/A,1,1,White,Financial Analyst,8/19,11/19,Sales Representative,12/19,12/19,Data Scientist,1/20,7/20,1.17
+39,Roger Williams University,3.07,Bachelor's,New York,F,0,1,N/A,Asian American & Pacific Islander,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8.13
+40,Rhode Island School of Design,2.89,PhD,Charlotte,N/A,1,0,1,Native American,Sales Representative,7/17,8/17,Research Assistant,9/17,11/17,N/A,N/A,N/A,8.72
+41,Roger Williams University,3.11,Master's,Philadelphia,F,1,1,1,Asian American & Pacific Islander,Research Assistant,9/18,11/18,Machine Learning Engineer,12/18,12/18,Research Assistant,1/19,10/19,7.47
+42,Rhode Island School of Design,3.82,Master's,Phoenix,M,N/A,1,1,Other,Financial Analyst,10/21,10/21,Graphic Designer,11/21,11/21,Machine Learning Engineer,12/21,12/21,9.58
+43,Roger Williams University,2.82,PhD,Dallas,M,0,1,1,Other,Human Resources Manager,5/22,12/22,Marketing Coordinator,1/23,8/23,Data Scientist,9/23,10/23,3.74
+44,Salve Regina University,2.59,Bachelor's,Dallas,M,0,0,1,White,Sales Representative,8/20,10/20,Sales Representative,11/20,11/20,Marketing Coordinator,12/20,12/20,0.52
+45,Rhode Island School of Design,3.2,Bachelor's,Jacksonville,N/A,0,0,1,White,Financial Analyst,5/21,5/21,Software Engineer,6/21,12/21,Research Assistant,1/22,2/22,9.52
+46,Rhode Island College,3.29,Master's,San Francisco,F,1,1,0,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.89
+47,Roger Williams University,2.42,PhD,Los Angeles,N/A,0,0,1,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.38
+48,Johnson & Wales University,3.91,PhD,Charlotte,M,N/A,1,1,Asian American & Pacific Islander,Human Resources Manager,7/15,9/15,Sales Representative,10/15,12/15,N/A,N/A,N/A,7.77
+49,University of Rhode Island,2.87,Bachelor's,Houston,F,N/A,0,N/A,Black,Graphic Designer,10/15,12/15,Product Manager,1/16,1/16,N/A,N/A,N/A,2.92
+50,Salve Regina University,3.18,PhD,Boston,N/A,1,1,1,Other,Human Resources Manager,4/17,8/17,Research Assistant,9/17,11/17,Machine Learning Engineer,12/17,12/17,6.08
+51,University of Rhode Island,2.57,PhD,San Francisco,N/A,1,1,N/A,Asian American & Pacific Islander,Web Developer,12/16,12/16,Graphic Designer,1/17,12/17,N/A,N/A,N/A,4.26
+52,Rhode Island College,4.0,PhD,San Jose,N/A,N/A,0,1,Asian American & Pacific Islander,Financial Analyst,7/22,12/22,Human Resources Manager,1/23,1/23,Product Manager,2/23,9/23,2.08
+53,Brown University,3.29,PhD,Houston,F,0,0,N/A,Black,Web Developer,2/17,10/17,Human Resources Manager,11/17,12/17,N/A,N/A,N/A,7.52
+54,Brown University,3.35,Master's,Phoenix,N/A,0,0,N/A,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.66
+55,Rhode Island School of Design,3.35,Bachelor's,San Francisco,M,1,0,N/A,Asian American & Pacific Islander,Marketing Coordinator,3/17,5/17,N/A,N/A,N/A,N/A,N/A,N/A,0.63
+56,Roger Williams University,2.41,Bachelor's,Fort Worth,F,N/A,1,N/A,Other,Lawyer,1/20,5/20,N/A,N/A,N/A,N/A,N/A,N/A,0.04
+57,Rhode Island College,3.32,Bachelor's,Chicago,M,0,0,1,Native American,Financial Analyst,11/21,12/21,N/A,N/A,N/A,N/A,N/A,N/A,4.41
+58,Rhode Island School of Design,3.2,Master's,Dallas,F,1,1,0,White,Web Developer,2/21,7/21,Sales Representative,8/21,8/21,Research Assistant,9/21,9/21,8.62
+59,Brown University,3.15,Bachelor's,Chicago,F,1,0,N/A,Asian American & Pacific Islander,Software Engineer,8/20,11/20,Data Scientist,12/20,12/20,Machine Learning Engineer,1/21,6/21,9.79
+60,Salve Regina University,3.7,Master's,Fort Worth,M,0,0,N/A,Other,Marketing Coordinator,12/21,12/21,Marketing Coordinator,1/22,3/22,N/A,N/A,N/A,3.31
+61,New England Institute of Technology,3.11,PhD,San Diego,M,1,1,0,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.58
+62,Providence College,2.96,PhD,San Antonio,M,0,0,0,White,Software Engineer,8/21,12/21,Product Manager,1/22,12/22,Lawyer,1/23,2/23,8.14
+63,Brown University,3.54,PhD,Charlotte,M,1,1,1,Other,Graphic Designer,5/22,8/22,Sales Representative,9/22,10/22,Machine Learning Engineer,11/22,11/22,9.18
+64,Providence College,3.51,Bachelor's,Providence,N/A,N/A,0,1,White,Lawyer,7/15,8/15,Research Assistant,9/15,12/15,Lawyer,1/16,5/16,3.69
+65,University of Rhode Island,2.73,Master's,Philadelphia,M,1,0,N/A,White,Machine Learning Engineer,7/21,10/21,Product Manager,11/21,11/21,Data Scientist,12/21,12/21,9.87
+66,Johnson & Wales University,3.31,Bachelor's,New York,M,N/A,0,N/A,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.89
+67,Salve Regina University,3.58,Master's,New York,M,0,1,1,Asian American & Pacific Islander,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.58
+68,Rhode Island College,3.05,Bachelor's,Dallas,N/A,N/A,1,1,Black,Sales Representative,10/18,11/18,Product Manager,12/18,12/18,Lawyer,1/19,4/19,5.24
+69,Brown University,2.94,Master's,Phoenix,N/A,N/A,1,0,White,Data Scientist,1/21,9/21,Human Resources Manager,10/21,12/21,Software Engineer,1/22,1/22,0.69
+70,Salve Regina University,2.92,Master's,Boston,N/A,N/A,0,0,Other,Lawyer,12/20,12/20,Research Assistant,1/21,10/21,Research Assistant,11/21,11/21,8.23
+71,New England Institute of Technology,3.61,PhD,Los Angeles,N/A,0,1,0,Other,Web Developer,2/19,2/19,Human Resources Manager,3/19,12/19,Lawyer,1/20,12/20,9.82
+72,Bryant University,3.15,PhD,Fort Worth,N/A,N/A,0,0,Black,Data Scientist,3/19,12/19,Lawyer,1/20,5/20,Lawyer,6/20,7/20,5.02
+73,Johnson & Wales University,3.72,PhD,Columbus,N/A,1,1,N/A,Asian American & Pacific Islander,Marketing Coordinator,2/22,9/22,Machine Learning Engineer,10/22,10/22,Research Assistant,11/22,11/22,0.97
+74,Salve Regina University,3.13,Master's,San Diego,F,1,1,1,Native American,Financial Analyst,10/17,11/17,Human Resources Manager,12/17,12/17,N/A,N/A,N/A,6.0
+75,Johnson & Wales University,3.67,Master's,Fort Worth,M,N/A,0,1,Other,Research Assistant,9/15,12/15,Software Engineer,1/16,10/16,Software Engineer,11/16,11/16,2.94
+76,Rhode Island School of Design,3.35,Master's,San Diego,N/A,0,1,0,White,Data Scientist,10/17,10/17,Machine Learning Engineer,11/17,12/17,Web Developer,1/18,4/18,0.9
+77,Rhode Island School of Design,3.23,PhD,San Jose,M,1,1,1,Asian American & Pacific Islander,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.34
+78,Salve Regina University,4.0,Master's,Austin,N/A,0,1,1,Asian American & Pacific Islander,Machine Learning Engineer,2/21,10/21,Research Assistant,11/21,12/21,Human Resources Manager,1/22,9/22,9.77
+79,Roger Williams University,2.98,Master's,Los Angeles,M,N/A,1,1,Other,Web Developer,7/21,9/21,N/A,N/A,N/A,N/A,N/A,N/A,2.82
+80,Providence College,3.04,Master's,Charlotte,F,0,0,1,Native American,Research Assistant,10/22,12/22,Financial Analyst,1/23,9/23,N/A,N/A,N/A,8.17
+81,University of Rhode Island,2.58,Master's,San Antonio,F,N/A,0,0,Other,Financial Analyst,5/18,9/18,Data Scientist,10/18,12/18,Web Developer,1/19,9/19,4.22
+82,New England Institute of Technology,2.8,Master's,Los Angeles,M,N/A,0,N/A,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.15
+83,Roger Williams University,2.86,Master's,New York,N/A,1,1,N/A,Black,Product Manager,5/15,7/15,Research Assistant,8/15,12/15,N/A,N/A,N/A,8.98
+84,Salve Regina University,3.12,Master's,Columbus,N/A,0,1,0,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.22
+85,Rhode Island College,2.81,Master's,Phoenix,M,1,0,0,Black,Financial Analyst,3/18,5/18,Web Developer,6/18,10/18,Data Scientist,11/18,12/18,6.19
+86,University of Rhode Island,3.98,Bachelor's,Charlotte,N/A,N/A,0,1,Asian American & Pacific Islander,Web Developer,3/21,12/21,Web Developer,1/22,4/22,Product Manager,5/22,12/22,0.69
+87,University of Rhode Island,2.46,Master's,Philadelphia,M,0,1,N/A,Black,Web Developer,5/15,10/15,Product Manager,11/15,11/15,Lawyer,12/15,12/15,0.91
+88,Roger Williams University,2.56,PhD,Boston,N/A,0,1,1,White,Marketing Coordinator,6/15,8/15,Data Scientist,9/15,12/15,Sales Representative,1/16,6/16,1.66
+89,Providence College,3.05,Master's,San Francisco,F,1,1,1,Native American,Data Scientist,1/15,3/15,Data Scientist,4/15,12/15,N/A,N/A,N/A,1.52
+90,Roger Williams University,2.9,Master's,San Diego,M,1,0,0,White,Marketing Coordinator,1/16,1/16,Lawyer,2/16,3/16,Web Developer,4/16,6/16,9.08
+91,University of Rhode Island,3.11,Bachelor's,Philadelphia,N/A,N/A,0,1,White,Product Manager,2/19,4/19,Sales Representative,5/19,9/19,N/A,N/A,N/A,0.46
+92,Rhode Island School of Design,3.63,PhD,Los Angeles,F,1,0,1,White,Product Manager,5/22,10/22,Product Manager,11/22,11/22,Product Manager,12/22,12/22,8.24
+93,Rhode Island School of Design,3.25,Master's,Miami,N/A,N/A,1,0,Black,Sales Representative,4/19,5/19,Web Developer,6/19,12/19,Graphic Designer,1/20,10/20,0.27
+94,Rhode Island College,2.62,PhD,San Diego,M,0,0,1,Other,Human Resources Manager,9/17,10/17,Machine Learning Engineer,11/17,11/17,Human Resources Manager,12/17,12/17,6.32
+95,Rhode Island College,2.78,PhD,Chicago,F,0,1,0,Asian American & Pacific Islander,Graphic Designer,4/15,4/15,Human Resources Manager,5/15,6/15,Lawyer,7/15,8/15,1.98
+96,Salve Regina University,3.55,Master's,Houston,N/A,N/A,0,0,Black,Lawyer,4/20,4/20,Machine Learning Engineer,5/20,9/20,Software Engineer,10/20,12/20,7.94
+97,Johnson & Wales University,3.45,Bachelor's,Houston,F,0,0,0,Asian American & Pacific Islander,Human Resources Manager,11/16,12/16,Graphic Designer,1/17,8/17,Marketing Coordinator,9/17,12/17,3.99
+98,Johnson & Wales University,3.45,Master's,Philadelphia,N/A,N/A,1,1,Black,Sales Representative,3/18,12/18,Sales Representative,1/19,10/19,Financial Analyst,11/19,11/19,8.45
+99,Johnson & Wales University,3.23,Bachelor's,Miami,M,1,1,1,Asian American & Pacific Islander,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8.63
+100,Rhode Island College,3.42,Bachelor's,Los Angeles,F,1,1,1,White,Web Developer,12/16,12/16,N/A,N/A,N/A,N/A,N/A,N/A,2.37
+101,New England Institute of Technology,3.65,PhD,Philadelphia,F,0,1,N/A,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.64
+102,Roger Williams University,2.62,PhD,Los Angeles,F,1,0,1,Asian American & Pacific Islander,Data Scientist,4/17,11/17,Human Resources Manager,12/17,12/17,Lawyer,1/18,12/18,1.39
+103,Rhode Island College,3.15,Bachelor's,Providence,F,0,1,0,Black,Human Resources Manager,9/16,10/16,Human Resources Manager,11/16,11/16,Graphic Designer,12/16,12/16,1.94
+104,Providence College,3.26,Bachelor's,New York,N/A,N/A,0,N/A,Black,Software Engineer,4/17,4/17,Software Engineer,5/17,8/17,N/A,N/A,N/A,2.4
+105,Salve Regina University,2.98,Bachelor's,San Antonio,F,1,1,1,Other,Software Engineer,7/19,9/19,Graphic Designer,10/19,10/19,Machine Learning Engineer,11/19,11/19,3.35
+106,Providence College,3.09,PhD,San Diego,N/A,N/A,1,0,Other,Sales Representative,12/21,12/21,N/A,N/A,N/A,N/A,N/A,N/A,0.09
+107,University of Rhode Island,3.17,Bachelor's,Providence,N/A,1,0,1,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.5
+108,Bryant University,2.65,Master's,Fort Worth,M,N/A,1,1,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.39
+109,New England Institute of Technology,3.81,PhD,Fort Worth,M,N/A,1,N/A,Native American,Human Resources Manager,9/18,12/18,Software Engineer,1/19,3/19,Machine Learning Engineer,4/19,11/19,9.62
+110,Roger Williams University,3.76,Bachelor's,Miami,M,N/A,1,0,Black,Software Engineer,10/22,12/22,Graphic Designer,1/23,5/23,N/A,N/A,N/A,6.89
+111,Brown University,3.4,Bachelor's,Columbus,F,1,1,1,White,Lawyer,7/17,12/17,Web Developer,1/18,3/18,Software Engineer,4/18,4/18,2.66
+112,Johnson & Wales University,3.07,Master's,San Jose,N/A,N/A,0,N/A,Other,Graphic Designer,1/18,8/18,Human Resources Manager,9/18,10/18,Software Engineer,11/18,11/18,7.32
+113,Bryant University,3.27,PhD,Houston,F,N/A,0,1,Native American,Machine Learning Engineer,12/22,12/22,Human Resources Manager,1/23,5/23,Machine Learning Engineer,6/23,9/23,6.07
+114,University of Rhode Island,2.96,Master's,San Diego,N/A,1,0,1,Asian American & Pacific Islander,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.24
+115,Bryant University,2.34,PhD,Dallas,F,0,0,0,Black,Sales Representative,11/17,12/17,Financial Analyst,1/18,1/18,Machine Learning Engineer,2/18,10/18,7.16
+116,Rhode Island School of Design,2.94,PhD,Houston,N/A,0,0,0,Black,Human Resources Manager,9/21,12/21,N/A,N/A,N/A,N/A,N/A,N/A,4.22
+117,Brown University,2.89,Bachelor's,New York,M,0,0,1,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.59
+118,Bryant University,3.14,Master's,Miami,N/A,N/A,1,0,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7.37
+119,Providence College,2.88,Master's,New York,M,0,1,1,White,Product Manager,11/21,11/21,Data Scientist,12/21,12/21,Research Assistant,1/22,6/22,3.83
+120,Rhode Island College,2.83,PhD,Philadelphia,N/A,0,0,0,Asian American & Pacific Islander,Sales Representative,5/15,10/15,Product Manager,11/15,11/15,Software Engineer,12/15,12/15,4.85
+121,Rhode Island College,3.31,Master's,Chicago,N/A,1,0,N/A,White,Web Developer,5/16,5/16,Machine Learning Engineer,6/16,6/16,Data Scientist,7/16,9/16,9.91
+122,Rhode Island College,3.77,Master's,Chicago,F,N/A,1,0,Black,Sales Representative,7/22,11/22,N/A,N/A,N/A,N/A,N/A,N/A,7.84
+123,Roger Williams University,3.75,Bachelor's,Dallas,N/A,1,1,1,White,Marketing Coordinator,4/22,4/22,Graphic Designer,5/22,9/22,N/A,N/A,N/A,1.43
+124,Bryant University,2.92,PhD,Providence,F,0,0,N/A,Black,Machine Learning Engineer,11/18,11/18,Sales Representative,12/18,12/18,Research Assistant,1/19,2/19,4.42
+125,Rhode Island School of Design,3.12,Master's,Phoenix,M,1,1,0,Native American,Research Assistant,6/15,10/15,Human Resources Manager,11/15,11/15,Sales Representative,12/15,12/15,2.38
+126,Salve Regina University,3.2,PhD,Jacksonville,M,1,0,N/A,Native American,Software Engineer,5/20,9/20,Research Assistant,10/20,12/20,Software Engineer,1/21,11/21,2.84
+127,Rhode Island College,3.28,Bachelor's,San Diego,M,0,0,0,White,Sales Representative,12/22,12/22,Product Manager,1/23,1/23,Product Manager,2/23,7/23,2.05
+128,Bryant University,3.28,PhD,Charlotte,F,N/A,0,N/A,Native American,Human Resources Manager,1/15,7/15,Human Resources Manager,8/15,10/15,N/A,N/A,N/A,5.75
+129,Salve Regina University,2.92,Master's,San Jose,F,0,1,0,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.78
+130,Providence College,3.44,Master's,Fort Worth,F,N/A,1,0,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.88
+131,Johnson & Wales University,3.2,Master's,Austin,N/A,1,1,N/A,Black,Machine Learning Engineer,11/15,11/15,Lawyer,12/15,12/15,Product Manager,1/16,5/16,3.11
+132,Roger Williams University,3.19,Master's,Charlotte,N/A,1,0,1,Asian American & Pacific Islander,Human Resources Manager,4/17,6/17,N/A,N/A,N/A,N/A,N/A,N/A,4.76
+133,Johnson & Wales University,3.06,Bachelor's,Fort Worth,N/A,N/A,0,0,Native American,Sales Representative,5/17,10/17,Financial Analyst,11/17,11/17,Machine Learning Engineer,12/17,12/17,5.57
+134,Brown University,2.66,Master's,Jacksonville,N/A,N/A,1,N/A,Other,Financial Analyst,11/17,12/17,N/A,N/A,N/A,N/A,N/A,N/A,2.23
+135,Providence College,2.85,PhD,Miami,M,1,1,1,White,Marketing Coordinator,4/17,12/17,N/A,N/A,N/A,N/A,N/A,N/A,8.62
+136,Bryant University,3.44,PhD,San Francisco,F,1,1,1,White,Software Engineer,6/22,6/22,N/A,N/A,N/A,N/A,N/A,N/A,0.73
+137,Brown University,3.68,Bachelor's,Dallas,N/A,N/A,0,1,Black,Marketing Coordinator,1/20,6/20,Web Developer,7/20,11/20,Graphic Designer,12/20,12/20,3.47
+138,Rhode Island College,4.0,Bachelor's,San Diego,N/A,N/A,0,1,Native American,Machine Learning Engineer,4/20,9/20,Graphic Designer,10/20,12/20,Sales Representative,1/21,1/21,9.83
+139,Johnson & Wales University,3.46,PhD,San Jose,M,N/A,1,1,Black,Marketing Coordinator,7/17,9/17,N/A,N/A,N/A,N/A,N/A,N/A,6.92
+140,Johnson & Wales University,3.04,PhD,San Antonio,N/A,1,0,1,Asian American & Pacific Islander,Software Engineer,4/21,12/21,Web Developer,1/22,10/22,Product Manager,11/22,12/22,1.13
+141,University of Rhode Island,3.46,Bachelor's,Miami,F,1,1,N/A,Native American,Human Resources Manager,7/19,10/19,Financial Analyst,11/19,12/19,Research Assistant,1/20,5/20,9.1
+142,Bryant University,2.8,Bachelor's,San Antonio,F,0,0,1,Native American,Web Developer,6/15,6/15,Human Resources Manager,7/15,9/15,N/A,N/A,N/A,0.53
+143,New England Institute of Technology,2.85,Master's,Chicago,N/A,N/A,0,N/A,Asian American & Pacific Islander,Web Developer,1/20,6/20,Machine Learning Engineer,7/20,12/20,Software Engineer,1/21,9/21,3.55
+144,New England Institute of Technology,3.72,PhD,Houston,F,N/A,1,1,White,Data Scientist,9/16,12/16,Human Resources Manager,1/17,12/17,N/A,N/A,N/A,4.25
+145,Bryant University,2.43,PhD,San Antonio,F,N/A,0,0,Black,Web Developer,5/17,11/17,Human Resources Manager,12/17,12/17,N/A,N/A,N/A,1.91
+146,Bryant University,3.14,Master's,Dallas,F,N/A,1,N/A,Black,Research Assistant,6/17,6/17,Research Assistant,7/17,12/17,Marketing Coordinator,1/18,6/18,4.48
+147,Rhode Island School of Design,3.02,Master's,Dallas,F,0,1,1,Asian American & Pacific Islander,Machine Learning Engineer,4/19,5/19,N/A,N/A,N/A,N/A,N/A,N/A,8.21
+148,Salve Regina University,3.51,Master's,Boston,M,N/A,1,1,White,Machine Learning Engineer,5/20,11/20,Product Manager,12/20,12/20,N/A,N/A,N/A,2.89
+149,University of Rhode Island,2.31,PhD,Philadelphia,N/A,N/A,1,1,Other,Marketing Coordinator,5/16,12/16,Software Engineer,1/17,3/17,N/A,N/A,N/A,7.63
+150,University of Rhode Island,2.44,Master's,San Francisco,F,1,1,0,White,Machine Learning Engineer,9/21,10/21,Human Resources Manager,11/21,11/21,Graphic Designer,12/21,12/21,2.29
+151,Rhode Island School of Design,2.93,PhD,Houston,M,N/A,0,1,Other,Research Assistant,5/19,9/19,Marketing Coordinator,10/19,12/19,Financial Analyst,1/20,2/20,5.08
+152,Providence College,3.52,PhD,San Francisco,M,0,1,0,Asian American & Pacific Islander,Lawyer,5/18,7/18,Software Engineer,8/18,10/18,Sales Representative,11/18,12/18,5.16
+153,Johnson & Wales University,2.81,Master's,San Jose,N/A,1,0,0,Native American,Graphic Designer,3/17,9/17,Human Resources Manager,10/17,12/17,Data Scientist,1/18,11/18,5.71
+154,University of Rhode Island,3.45,PhD,Philadelphia,N/A,N/A,1,N/A,Black,Research Assistant,12/17,12/17,Research Assistant,1/18,11/18,Marketing Coordinator,12/18,12/18,3.73
+155,Bryant University,3.67,Master's,Chicago,M,0,0,0,Black,Product Manager,3/22,8/22,Marketing Coordinator,9/22,10/22,N/A,N/A,N/A,5.61
+156,University of Rhode Island,3.52,Bachelor's,San Antonio,F,N/A,0,1,Native American,Machine Learning Engineer,6/21,12/21,Financial Analyst,1/22,6/22,Financial Analyst,7/22,12/22,6.43
+157,Roger Williams University,2.92,Master's,San Antonio,M,N/A,0,1,Black,Marketing Coordinator,11/18,11/18,N/A,N/A,N/A,N/A,N/A,N/A,0.97
+158,Providence College,3.3,PhD,San Antonio,M,N/A,0,0,Black,Web Developer,6/17,11/17,Human Resources Manager,12/17,12/17,Product Manager,1/18,9/18,9.56
+159,Salve Regina University,2.9,Bachelor's,Houston,F,1,1,0,Native American,Research Assistant,3/22,9/22,N/A,N/A,N/A,N/A,N/A,N/A,6.51
+160,Bryant University,2.65,Bachelor's,Austin,M,1,1,0,Black,Human Resources Manager,10/20,10/20,Data Scientist,11/20,12/20,Marketing Coordinator,1/21,1/21,8.79
+161,Rhode Island School of Design,2.8,Master's,Houston,F,0,0,N/A,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7.95
+162,Bryant University,2.63,PhD,Los Angeles,M,0,0,1,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.81
+163,Brown University,3.06,PhD,Dallas,N/A,N/A,0,N/A,Black,Financial Analyst,11/16,11/16,Marketing Coordinator,12/16,12/16,N/A,N/A,N/A,1.05
+164,Salve Regina University,3.06,Bachelor's,Miami,F,N/A,1,1,Native American,Human Resources Manager,8/15,12/15,N/A,N/A,N/A,N/A,N/A,N/A,4.23
+165,Brown University,3.69,Master's,Columbus,N/A,1,1,0,Black,Financial Analyst,4/20,11/20,Sales Representative,12/20,12/20,N/A,N/A,N/A,5.0
+166,Johnson & Wales University,3.1,PhD,Los Angeles,M,1,0,1,White,Sales Representative,4/19,9/19,Lawyer,10/19,11/19,Sales Representative,12/19,12/19,2.33
+167,New England Institute of Technology,3.41,Master's,Houston,N/A,N/A,1,N/A,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.75
+168,Roger Williams University,3.09,Master's,San Antonio,M,1,1,1,Asian American & Pacific Islander,Data Scientist,4/18,5/18,Marketing Coordinator,6/18,9/18,Product Manager,10/18,12/18,8.45
+169,New England Institute of Technology,3.52,PhD,San Jose,F,1,0,0,Native American,Web Developer,9/20,9/20,Sales Representative,10/20,11/20,N/A,N/A,N/A,3.39
+170,Bryant University,2.94,PhD,Dallas,F,N/A,1,N/A,White,Machine Learning Engineer,11/16,11/16,Sales Representative,12/16,12/16,Web Developer,1/17,5/17,2.75
+171,Johnson & Wales University,3.15,Master's,Philadelphia,M,0,0,1,Other,Graphic Designer,3/15,3/15,Financial Analyst,4/15,9/15,Data Scientist,10/15,11/15,8.59
+172,Rhode Island School of Design,2.75,Bachelor's,Dallas,M,N/A,1,1,Black,Marketing Coordinator,4/21,11/21,N/A,N/A,N/A,N/A,N/A,N/A,6.42
+173,Rhode Island School of Design,3.1,Master's,Los Angeles,M,N/A,0,N/A,Native American,Research Assistant,2/20,3/20,N/A,N/A,N/A,N/A,N/A,N/A,1.16
+174,Rhode Island School of Design,3.91,Master's,Phoenix,N/A,N/A,0,0,Native American,Web Developer,1/15,2/15,Machine Learning Engineer,3/15,11/15,Software Engineer,12/15,12/15,8.26
+175,Johnson & Wales University,2.22,Bachelor's,Charlotte,M,1,0,0,Asian American & Pacific Islander,Marketing Coordinator,10/15,12/15,Machine Learning Engineer,1/16,12/16,Web Developer,1/17,5/17,1.45
+176,Roger Williams University,2.99,PhD,Austin,M,1,1,N/A,Asian American & Pacific Islander,Data Scientist,7/20,10/20,Financial Analyst,11/20,12/20,Human Resources Manager,1/21,1/21,8.66
+177,New England Institute of Technology,3.45,PhD,San Francisco,M,0,0,0,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8.91
+178,Providence College,3.6,Bachelor's,Philadelphia,N/A,0,1,0,White,Marketing Coordinator,6/22,10/22,Marketing Coordinator,11/22,11/22,Web Developer,12/22,12/22,6.82
+179,Rhode Island School of Design,3.04,Bachelor's,Philadelphia,M,0,0,N/A,Other,Product Manager,6/17,9/17,N/A,N/A,N/A,N/A,N/A,N/A,2.26
+180,Salve Regina University,2.83,PhD,Miami,F,1,1,0,Native American,Sales Representative,5/15,12/15,Human Resources Manager,1/16,9/16,Research Assistant,10/16,11/16,7.52
+181,Roger Williams University,2.57,PhD,Philadelphia,N/A,N/A,1,N/A,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.15
+182,Johnson & Wales University,2.64,PhD,Jacksonville,N/A,1,1,1,Other,Graphic Designer,1/15,1/15,N/A,N/A,N/A,N/A,N/A,N/A,2.02
+183,University of Rhode Island,3.22,PhD,Chicago,N/A,N/A,1,1,Native American,Sales Representative,1/20,7/20,Sales Representative,8/20,9/20,Graphic Designer,10/20,10/20,1.25
+184,Johnson & Wales University,3.31,Master's,San Francisco,F,N/A,1,1,White,Sales Representative,8/15,11/15,Sales Representative,12/15,12/15,N/A,N/A,N/A,7.89
+185,Roger Williams University,3.35,Bachelor's,Providence,M,0,0,N/A,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.5
+186,New England Institute of Technology,2.5,Master's,San Jose,F,N/A,0,N/A,Black,Sales Representative,12/22,12/22,Financial Analyst,1/23,9/23,Lawyer,10/23,12/23,4.36
+187,Salve Regina University,3.0,Bachelor's,Phoenix,F,N/A,0,N/A,Native American,Web Developer,10/19,11/19,Human Resources Manager,12/19,12/19,N/A,N/A,N/A,1.36
+188,Roger Williams University,3.75,PhD,Phoenix,N/A,0,1,0,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.49
+189,Bryant University,3.11,Bachelor's,Providence,F,N/A,0,0,Black,Product Manager,12/16,12/16,Software Engineer,1/17,2/17,Data Scientist,3/17,9/17,3.73
+190,New England Institute of Technology,3.2,Bachelor's,Phoenix,N/A,1,0,0,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.66
+191,Rhode Island College,2.62,Master's,San Jose,N/A,0,0,0,Black,Financial Analyst,5/21,8/21,Financial Analyst,9/21,10/21,Sales Representative,11/21,11/21,0.79
+192,Providence College,2.6,PhD,Jacksonville,N/A,N/A,1,1,Asian American & Pacific Islander,Web Developer,5/17,8/17,Financial Analyst,9/17,9/17,Lawyer,10/17,11/17,0.85
+193,Roger Williams University,2.36,PhD,Chicago,N/A,1,0,1,Black,Sales Representative,10/15,11/15,Web Developer,12/15,12/15,Sales Representative,1/16,8/16,5.03
+194,Salve Regina University,3.29,PhD,Philadelphia,N/A,0,0,0,Asian American & Pacific Islander,Machine Learning Engineer,5/22,7/22,Human Resources Manager,8/22,12/22,Web Developer,1/23,8/23,5.14
+195,Providence College,3.36,Master's,Charlotte,F,1,0,1,Native American,Lawyer,8/20,11/20,Lawyer,12/20,12/20,N/A,N/A,N/A,0.92
+196,Bryant University,3.08,Master's,Chicago,F,N/A,0,N/A,Other,Financial Analyst,3/22,8/22,Research Assistant,9/22,10/22,Research Assistant,11/22,11/22,5.75
+197,New England Institute of Technology,3.63,PhD,Phoenix,F,1,1,N/A,Native American,Web Developer,12/15,12/15,Web Developer,1/16,4/16,Research Assistant,5/16,12/16,0.86
+198,Salve Regina University,2.69,Bachelor's,Chicago,N/A,N/A,0,0,Black,Financial Analyst,3/16,8/16,Machine Learning Engineer,9/16,12/16,N/A,N/A,N/A,5.56
+199,Rhode Island College,3.23,Bachelor's,Dallas,N/A,0,1,1,Native American,Web Developer,3/17,4/17,Graphic Designer,5/17,6/17,N/A,N/A,N/A,6.76
+200,Brown University,3.44,Bachelor's,San Francisco,M,0,1,1,White,Financial Analyst,5/21,9/21,Financial Analyst,10/21,10/21,Sales Representative,11/21,11/21,9.15
+201,Johnson & Wales University,3.3,PhD,San Antonio,N/A,N/A,0,0,Black,Web Developer,1/19,1/19,Web Developer,2/19,3/19,Financial Analyst,4/19,11/19,7.8
+202,Johnson & Wales University,3.12,Master's,Los Angeles,N/A,N/A,0,N/A,Black,Sales Representative,10/16,11/16,N/A,N/A,N/A,N/A,N/A,N/A,0.63
+203,New England Institute of Technology,3.34,Bachelor's,San Diego,M,0,0,0,Asian American & Pacific Islander,Human Resources Manager,8/18,12/18,Research Assistant,1/19,7/19,Product Manager,8/19,10/19,2.25
+204,Rhode Island College,2.82,Bachelor's,San Jose,N/A,N/A,0,N/A,Black,Machine Learning Engineer,8/20,10/20,Lawyer,11/20,11/20,Data Scientist,12/20,12/20,9.14
+205,Salve Regina University,3.63,Bachelor's,Miami,N/A,1,0,1,White,Human Resources Manager,6/16,8/16,N/A,N/A,N/A,N/A,N/A,N/A,0.67
+206,Rhode Island School of Design,3.88,Master's,Los Angeles,M,N/A,1,N/A,White,Graphic Designer,1/16,4/16,Lawyer,5/16,8/16,N/A,N/A,N/A,4.46
+207,University of Rhode Island,3.04,Master's,San Francisco,F,1,0,N/A,Asian American & Pacific Islander,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7.24
+208,Rhode Island School of Design,3.3,Bachelor's,Providence,N/A,N/A,0,N/A,Black,Graphic Designer,6/18,7/18,N/A,N/A,N/A,N/A,N/A,N/A,0.76
+209,Rhode Island School of Design,3.22,Master's,Dallas,M,1,1,0,Native American,Sales Representative,7/22,11/22,N/A,N/A,N/A,N/A,N/A,N/A,8.64
+210,Bryant University,2.74,PhD,Austin,M,N/A,1,0,Black,Data Scientist,2/20,9/20,Financial Analyst,10/20,10/20,Data Scientist,11/20,12/20,6.43
+211,Rhode Island School of Design,3.5,Master's,Columbus,F,0,0,0,Black,Human Resources Manager,10/21,12/21,Financial Analyst,1/22,6/22,Lawyer,7/22,12/22,1.7
+212,University of Rhode Island,3.81,Master's,New York,F,1,0,1,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.59
+213,Rhode Island School of Design,3.62,Master's,San Francisco,F,N/A,0,1,White,Research Assistant,6/18,12/18,N/A,N/A,N/A,N/A,N/A,N/A,4.77
+214,Providence College,2.92,Bachelor's,New York,F,1,0,1,Asian American & Pacific Islander,Product Manager,10/21,10/21,Financial Analyst,11/21,12/21,Research Assistant,1/22,3/22,3.85
+215,Rhode Island School of Design,3.42,Bachelor's,Los Angeles,F,N/A,1,0,White,Web Developer,9/20,11/20,Marketing Coordinator,12/20,12/20,Product Manager,1/21,6/21,1.85
+216,Johnson & Wales University,3.54,PhD,Philadelphia,F,0,1,0,Native American,Graphic Designer,6/17,7/17,Product Manager,8/17,9/17,Software Engineer,10/17,10/17,7.22
+217,Brown University,3.06,PhD,Philadelphia,N/A,0,0,1,Other,Financial Analyst,3/22,5/22,Financial Analyst,6/22,9/22,Financial Analyst,10/22,11/22,7.08
+218,New England Institute of Technology,2.98,Master's,San Diego,M,0,0,1,White,Financial Analyst,3/15,10/15,Marketing Coordinator,11/15,12/15,N/A,N/A,N/A,4.96
+219,Roger Williams University,3.13,PhD,San Jose,M,1,1,0,Native American,Research Assistant,1/17,2/17,Lawyer,3/17,3/17,N/A,N/A,N/A,3.81
+220,Brown University,3.19,Master's,San Diego,N/A,0,0,1,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.12
+221,New England Institute of Technology,3.4,Master's,Fort Worth,F,1,1,1,Other,Sales Representative,5/18,6/18,N/A,N/A,N/A,N/A,N/A,N/A,8.33
+222,Rhode Island School of Design,2.52,Bachelor's,Jacksonville,N/A,0,1,1,Asian American & Pacific Islander,Machine Learning Engineer,8/18,12/18,Product Manager,1/19,11/19,Research Assistant,12/19,12/19,4.51
+223,Johnson & Wales University,3.57,PhD,New York,F,N/A,0,N/A,Black,Human Resources Manager,7/16,7/16,Sales Representative,8/16,12/16,Data Scientist,1/17,8/17,8.76
+224,Providence College,3.4,Bachelor's,Philadelphia,N/A,1,0,N/A,Asian American & Pacific Islander,Graphic Designer,11/18,12/18,N/A,N/A,N/A,N/A,N/A,N/A,7.32
+225,Bryant University,3.27,Master's,Charlotte,N/A,1,1,N/A,Other,Marketing Coordinator,12/20,12/20,Sales Representative,1/21,10/21,Human Resources Manager,11/21,12/21,7.61
+226,Rhode Island College,3.28,Bachelor's,Jacksonville,F,1,0,1,Asian American & Pacific Islander,Software Engineer,12/17,12/17,Machine Learning Engineer,1/18,11/18,Software Engineer,12/18,12/18,2.23
+227,Roger Williams University,2.86,Bachelor's,Charlotte,M,1,1,0,Other,Machine Learning Engineer,2/16,4/16,Product Manager,5/16,6/16,Financial Analyst,7/16,8/16,2.8
+228,Bryant University,2.8,Bachelor's,Boston,F,0,0,1,Other,Product Manager,1/22,8/22,Data Scientist,9/22,12/22,N/A,N/A,N/A,2.65
+229,Providence College,3.31,PhD,San Jose,M,0,1,0,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.99
+230,Johnson & Wales University,3.35,PhD,Providence,F,1,0,0,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.08
+231,Rhode Island College,3.19,Master's,Miami,M,0,0,1,Native American,Web Developer,8/19,10/19,Machine Learning Engineer,11/19,11/19,N/A,N/A,N/A,5.93
+232,Bryant University,3.49,PhD,Charlotte,M,0,0,0,Other,Web Developer,11/20,11/20,Marketing Coordinator,12/20,12/20,Web Developer,1/21,9/21,0.17
+233,Providence College,3.56,Bachelor's,Boston,N/A,0,1,1,Native American,Lawyer,5/21,6/21,Data Scientist,7/21,8/21,Marketing Coordinator,9/21,11/21,4.46
+234,Bryant University,3.7,Master's,Providence,M,N/A,0,1,Asian American & Pacific Islander,Machine Learning Engineer,2/16,10/16,Financial Analyst,11/16,12/16,N/A,N/A,N/A,6.77
+235,University of Rhode Island,3.2,PhD,San Francisco,N/A,N/A,1,0,Asian American & Pacific Islander,Graphic Designer,8/17,10/17,Research Assistant,11/17,12/17,Research Assistant,1/18,1/18,4.15
+236,Bryant University,2.42,Master's,Providence,F,N/A,1,0,Other,Web Developer,5/15,11/15,N/A,N/A,N/A,N/A,N/A,N/A,4.06
+237,Rhode Island School of Design,3.08,PhD,Providence,F,1,0,0,Asian American & Pacific Islander,Graphic Designer,2/22,9/22,Machine Learning Engineer,10/22,11/22,Human Resources Manager,12/22,12/22,9.16
+238,Salve Regina University,3.32,PhD,San Diego,M,0,0,N/A,Asian American & Pacific Islander,Financial Analyst,7/15,11/15,Software Engineer,12/15,12/15,N/A,N/A,N/A,7.93
+239,Rhode Island College,2.77,PhD,Chicago,M,N/A,0,0,Other,Lawyer,6/20,12/20,Data Scientist,1/21,12/21,Human Resources Manager,1/22,1/22,8.58
+240,Brown University,2.53,Master's,Charlotte,N/A,N/A,1,0,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.23
+241,Bryant University,3.15,Bachelor's,San Antonio,N/A,0,0,N/A,Asian American & Pacific Islander,Machine Learning Engineer,12/16,12/16,Product Manager,1/17,5/17,Machine Learning Engineer,6/17,10/17,0.66
+242,Salve Regina University,3.0,Bachelor's,San Francisco,F,1,1,N/A,Native American,Financial Analyst,10/15,11/15,Data Scientist,12/15,12/15,Data Scientist,1/16,11/16,8.35
+243,University of Rhode Island,2.72,Master's,Miami,F,1,0,1,Asian American & Pacific Islander,Graphic Designer,6/17,11/17,Product Manager,12/17,12/17,Web Developer,1/18,8/18,8.23
+244,Rhode Island School of Design,3.62,PhD,San Diego,F,1,1,1,Black,Data Scientist,10/18,11/18,Financial Analyst,12/18,12/18,Human Resources Manager,1/19,12/19,7.46
+245,University of Rhode Island,3.07,Bachelor's,Boston,F,N/A,0,1,Asian American & Pacific Islander,Web Developer,12/17,12/17,N/A,N/A,N/A,N/A,N/A,N/A,6.9
+246,Providence College,3.81,Master's,Boston,N/A,N/A,0,0,Asian American & Pacific Islander,Product Manager,10/19,10/19,Marketing Coordinator,11/19,11/19,Machine Learning Engineer,12/19,12/19,3.62
+247,Salve Regina University,3.18,Master's,San Diego,N/A,0,1,N/A,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.04
+248,Salve Regina University,3.31,Bachelor's,Austin,N/A,N/A,0,N/A,Native American,Human Resources Manager,1/21,9/21,Marketing Coordinator,10/21,11/21,Data Scientist,12/21,12/21,0.87
+249,Brown University,2.96,Bachelor's,Los Angeles,M,1,0,1,Asian American & Pacific Islander,Research Assistant,4/21,5/21,Graphic Designer,6/21,12/21,N/A,N/A,N/A,1.11
+250,Rhode Island College,3.32,Bachelor's,New York,F,0,1,1,White,Research Assistant,1/18,7/18,Sales Representative,8/18,8/18,Human Resources Manager,9/18,12/18,9.76
+251,Bryant University,3.01,Master's,San Antonio,N/A,N/A,1,N/A,White,Lawyer,8/21,12/21,Marketing Coordinator,1/22,3/22,Web Developer,4/22,10/22,6.08
+252,Roger Williams University,2.53,PhD,San Jose,F,N/A,1,0,Black,Marketing Coordinator,11/15,12/15,Research Assistant,1/16,9/16,Sales Representative,10/16,10/16,3.26
+253,Bryant University,3.12,PhD,Austin,M,0,1,1,Asian American & Pacific Islander,Graphic Designer,2/18,6/18,Marketing Coordinator,7/18,10/18,Product Manager,11/18,11/18,1.63
+254,Brown University,3.18,Bachelor's,San Antonio,F,N/A,1,N/A,Native American,Machine Learning Engineer,1/22,6/22,N/A,N/A,N/A,N/A,N/A,N/A,2.95
+255,Rhode Island College,3.25,Master's,Boston,N/A,1,1,1,Native American,Product Manager,8/16,8/16,Financial Analyst,9/16,11/16,Human Resources Manager,12/16,12/16,3.79
+256,Rhode Island College,3.01,Master's,Providence,N/A,N/A,1,1,Black,Software Engineer,1/20,12/20,Web Developer,1/21,2/21,Machine Learning Engineer,3/21,8/21,9.87
+257,Salve Regina University,2.87,Bachelor's,Houston,F,1,1,1,Asian American & Pacific Islander,Sales Representative,9/17,11/17,Product Manager,12/17,12/17,Marketing Coordinator,1/18,11/18,8.79
+258,Salve Regina University,2.29,PhD,Houston,F,0,0,0,Black,Financial Analyst,6/15,11/15,Marketing Coordinator,12/15,12/15,N/A,N/A,N/A,8.37
+259,Johnson & Wales University,2.62,Bachelor's,San Jose,M,0,1,1,Other,Sales Representative,2/16,9/16,Product Manager,10/16,10/16,Lawyer,11/16,12/16,8.64
+260,Rhode Island School of Design,3.13,PhD,Jacksonville,F,1,1,0,Black,Machine Learning Engineer,12/16,12/16,Marketing Coordinator,1/17,1/17,Research Assistant,2/17,3/17,1.59
+261,Brown University,2.78,Master's,Dallas,N/A,1,0,N/A,Asian American & Pacific Islander,Human Resources Manager,2/19,9/19,N/A,N/A,N/A,N/A,N/A,N/A,9.16
+262,Rhode Island School of Design,3.2,Master's,Chicago,M,1,0,1,Black,Research Assistant,4/21,5/21,Marketing Coordinator,6/21,8/21,Lawyer,9/21,10/21,9.6
+263,Roger Williams University,2.76,Master's,Houston,N/A,0,1,0,Native American,Web Developer,6/16,12/16,Product Manager,1/17,11/17,Product Manager,12/17,12/17,5.77
+264,University of Rhode Island,2.71,PhD,San Diego,M,N/A,1,0,Black,Product Manager,7/22,11/22,N/A,N/A,N/A,N/A,N/A,N/A,9.23
+265,Salve Regina University,3.5,PhD,Los Angeles,N/A,N/A,1,N/A,Other,Product Manager,5/21,12/21,Financial Analyst,1/22,4/22,N/A,N/A,N/A,8.56
+266,Rhode Island College,3.23,PhD,Los Angeles,N/A,1,0,0,Black,Sales Representative,11/17,11/17,Lawyer,12/17,12/17,N/A,N/A,N/A,1.89
+267,Rhode Island School of Design,2.33,PhD,San Antonio,N/A,N/A,0,0,Asian American & Pacific Islander,Software Engineer,8/18,12/18,Lawyer,1/19,1/19,Sales Representative,2/19,3/19,5.61
+268,Bryant University,2.8,Bachelor's,Houston,F,N/A,1,1,Asian American & Pacific Islander,Data Scientist,8/17,10/17,Data Scientist,11/17,11/17,N/A,N/A,N/A,3.42
+269,Brown University,2.59,Bachelor's,Houston,N/A,1,1,1,Black,Human Resources Manager,4/20,5/20,N/A,N/A,N/A,N/A,N/A,N/A,1.71
+270,New England Institute of Technology,3.48,Bachelor's,Phoenix,N/A,1,1,1,Asian American & Pacific Islander,Human Resources Manager,1/15,8/15,Product Manager,9/15,9/15,Research Assistant,10/15,10/15,4.99
+271,New England Institute of Technology,3.15,PhD,Chicago,M,0,0,N/A,Asian American & Pacific Islander,Product Manager,12/17,12/17,Financial Analyst,1/18,3/18,Data Scientist,4/18,8/18,2.13
+272,Rhode Island School of Design,2.64,PhD,Jacksonville,F,1,1,N/A,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.07
+273,Providence College,2.69,Bachelor's,Dallas,M,0,0,1,Black,Graphic Designer,3/22,5/22,Financial Analyst,6/22,10/22,N/A,N/A,N/A,5.6
+274,Providence College,3.48,Master's,Philadelphia,N/A,0,0,1,Black,Financial Analyst,4/15,10/15,Product Manager,11/15,12/15,Research Assistant,1/16,12/16,9.22
+275,Brown University,3.1,Master's,Columbus,M,0,1,N/A,Asian American & Pacific Islander,Web Developer,11/20,11/20,Marketing Coordinator,12/20,12/20,N/A,N/A,N/A,3.32
+276,Johnson & Wales University,2.69,PhD,Philadelphia,M,1,0,0,Native American,Sales Representative,9/16,10/16,Machine Learning Engineer,11/16,11/16,Lawyer,12/16,12/16,9.62
+277,Johnson & Wales University,3.16,PhD,Philadelphia,N/A,N/A,1,0,Asian American & Pacific Islander,Graphic Designer,12/16,12/16,Sales Representative,1/17,10/17,Web Developer,11/17,11/17,4.7
+278,New England Institute of Technology,3.09,PhD,Fort Worth,M,1,0,0,Asian American & Pacific Islander,Financial Analyst,8/18,12/18,Data Scientist,1/19,9/19,Machine Learning Engineer,10/19,10/19,4.58
+279,Roger Williams University,3.47,Master's,Phoenix,M,N/A,1,N/A,Native American,Graphic Designer,1/20,5/20,Lawyer,6/20,10/20,Financial Analyst,11/20,11/20,9.79
+280,Salve Regina University,2.52,PhD,New York,M,0,1,0,Native American,Web Developer,3/20,6/20,N/A,N/A,N/A,N/A,N/A,N/A,4.79
+281,Rhode Island School of Design,2.34,PhD,New York,M,N/A,0,N/A,Asian American & Pacific Islander,Marketing Coordinator,12/18,12/18,N/A,N/A,N/A,N/A,N/A,N/A,5.64
+282,Rhode Island School of Design,3.14,Bachelor's,San Diego,M,1,1,N/A,Asian American & Pacific Islander,Software Engineer,12/22,12/22,Machine Learning Engineer,1/23,8/23,Lawyer,9/23,11/23,1.6
+283,Providence College,2.69,Master's,San Diego,F,N/A,0,0,Black,Machine Learning Engineer,8/22,10/22,Data Scientist,11/22,11/22,Marketing Coordinator,12/22,12/22,5.8
+284,Brown University,2.88,PhD,Columbus,F,N/A,1,0,Asian American & Pacific Islander,Data Scientist,8/19,11/19,Data Scientist,12/19,12/19,N/A,N/A,N/A,6.14
+285,Salve Regina University,3.14,PhD,San Francisco,M,0,1,N/A,White,Financial Analyst,11/20,12/20,Marketing Coordinator,1/21,5/21,Lawyer,6/21,10/21,8.84
+286,New England Institute of Technology,3.1,Master's,Boston,N/A,N/A,0,0,Asian American & Pacific Islander,Data Scientist,6/15,6/15,Human Resources Manager,7/15,12/15,Machine Learning Engineer,1/16,6/16,2.61
+287,Johnson & Wales University,2.44,Bachelor's,Boston,F,N/A,0,N/A,Other,Lawyer,7/17,7/17,Financial Analyst,8/17,8/17,N/A,N/A,N/A,5.92
+288,Salve Regina University,3.35,PhD,Miami,N/A,0,0,1,White,Web Developer,6/22,6/22,N/A,N/A,N/A,N/A,N/A,N/A,7.51
+289,Rhode Island School of Design,2.86,PhD,Phoenix,F,N/A,1,N/A,Native American,Human Resources Manager,10/20,12/20,Financial Analyst,1/21,12/21,Marketing Coordinator,1/22,5/22,9.5
+290,Bryant University,3.57,Master's,Fort Worth,F,N/A,0,0,White,Software Engineer,9/19,11/19,Financial Analyst,12/19,12/19,Research Assistant,1/20,6/20,9.89
+291,University of Rhode Island,2.61,PhD,Houston,M,1,0,0,Native American,Graphic Designer,4/20,9/20,Research Assistant,10/20,12/20,Research Assistant,1/21,7/21,7.29
+292,Brown University,2.34,Master's,Dallas,N/A,0,0,1,Black,Software Engineer,5/22,12/22,Product Manager,1/23,10/23,N/A,N/A,N/A,6.36
+293,University of Rhode Island,2.29,Master's,New York,N/A,1,0,0,Asian American & Pacific Islander,Graphic Designer,8/16,11/16,Data Scientist,12/16,12/16,Research Assistant,1/17,7/17,9.39
+294,Bryant University,3.67,Master's,Miami,M,1,1,1,Black,Software Engineer,3/21,9/21,Research Assistant,10/21,12/21,Financial Analyst,1/22,6/22,2.18
+295,Roger Williams University,4.0,Bachelor's,San Jose,N/A,0,1,N/A,White,Web Developer,10/15,10/15,Human Resources Manager,11/15,11/15,Research Assistant,12/15,12/15,3.46
+296,Rhode Island School of Design,2.97,Master's,Phoenix,N/A,N/A,1,0,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.33
+297,New England Institute of Technology,3.67,Master's,Chicago,N/A,N/A,1,N/A,Asian American & Pacific Islander,Product Manager,12/19,12/19,Web Developer,1/20,11/20,N/A,N/A,N/A,6.87
+298,Roger Williams University,3.22,PhD,San Diego,M,N/A,0,0,White,Sales Representative,7/15,12/15,Web Developer,1/16,3/16,Research Assistant,4/16,7/16,3.25
+299,Rhode Island School of Design,2.62,Bachelor's,Philadelphia,F,0,0,N/A,Other,Web Developer,1/15,6/15,N/A,N/A,N/A,N/A,N/A,N/A,2.35
+300,New England Institute of Technology,3.42,PhD,Boston,N/A,0,1,0,Native American,Research Assistant,9/16,10/16,Software Engineer,11/16,12/16,Graphic Designer,1/17,4/17,8.31
+301,Bryant University,2.21,Master's,Dallas,N/A,1,0,0,Black,Product Manager,3/17,6/17,Data Scientist,7/17,11/17,Graphic Designer,12/17,12/17,0.72
+302,New England Institute of Technology,2.96,Bachelor's,Houston,F,1,1,0,Asian American & Pacific Islander,Financial Analyst,3/18,5/18,N/A,N/A,N/A,N/A,N/A,N/A,5.65
+303,Johnson & Wales University,3.35,Master's,Jacksonville,N/A,1,1,1,Asian American & Pacific Islander,Graphic Designer,5/17,5/17,Research Assistant,6/17,9/17,N/A,N/A,N/A,3.37
+304,Johnson & Wales University,3.24,Master's,San Antonio,N/A,1,1,N/A,Black,Human Resources Manager,9/16,12/16,Graphic Designer,1/17,4/17,N/A,N/A,N/A,9.65
+305,Salve Regina University,2.46,Master's,Dallas,F,N/A,0,0,Black,Lawyer,11/19,11/19,N/A,N/A,N/A,N/A,N/A,N/A,2.27
+306,Rhode Island School of Design,3.41,Master's,San Francisco,F,1,1,1,White,Data Scientist,6/22,10/22,Human Resources Manager,11/22,11/22,Marketing Coordinator,12/22,12/22,0.89
+307,University of Rhode Island,3.22,Master's,Houston,F,N/A,0,0,Native American,Financial Analyst,2/22,12/22,Web Developer,1/23,10/23,Financial Analyst,11/23,12/23,8.47
+308,Johnson & Wales University,3.31,Master's,Houston,M,0,0,1,Native American,Research Assistant,7/21,11/21,Data Scientist,12/21,12/21,Lawyer,1/22,8/22,8.58
+309,Rhode Island School of Design,3.2,Master's,Boston,F,0,0,N/A,White,Lawyer,2/20,2/20,Data Scientist,3/20,5/20,Research Assistant,6/20,12/20,8.49
+310,Rhode Island School of Design,3.36,PhD,Philadelphia,M,0,0,0,Black,Marketing Coordinator,6/17,6/17,Graphic Designer,7/17,11/17,Product Manager,12/17,12/17,6.16
+311,Providence College,2.89,Master's,Charlotte,F,1,0,0,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.48
+312,University of Rhode Island,3.18,Bachelor's,Charlotte,N/A,N/A,1,1,Native American,Lawyer,12/22,12/22,N/A,N/A,N/A,N/A,N/A,N/A,8.41
+313,Bryant University,3.95,Master's,New York,F,0,1,0,Other,Lawyer,12/20,12/20,Human Resources Manager,1/21,8/21,Sales Representative,9/21,12/21,9.85
+314,Salve Regina University,2.0,Master's,Los Angeles,N/A,1,0,N/A,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.71
+315,Rhode Island College,3.37,Bachelor's,Dallas,N/A,1,0,0,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.37
+316,New England Institute of Technology,2.67,PhD,San Diego,F,0,0,N/A,Native American,Data Scientist,5/22,8/22,Marketing Coordinator,9/22,10/22,Machine Learning Engineer,11/22,11/22,8.64
+317,Roger Williams University,3.38,Bachelor's,Philadelphia,N/A,1,1,0,Asian American & Pacific Islander,Graphic Designer,5/18,12/18,Research Assistant,1/19,4/19,Web Developer,5/19,6/19,8.3
+318,Providence College,3.29,Master's,San Francisco,N/A,1,1,0,White,Financial Analyst,8/22,12/22,Financial Analyst,1/23,1/23,Data Scientist,2/23,11/23,8.59
+319,Roger Williams University,3.14,Master's,San Diego,N/A,N/A,0,N/A,White,Machine Learning Engineer,11/19,11/19,N/A,N/A,N/A,N/A,N/A,N/A,1.89
+320,Roger Williams University,3.47,PhD,Charlotte,F,0,0,N/A,Black,Web Developer,8/17,12/17,Graphic Designer,1/18,11/18,Human Resources Manager,12/18,12/18,0.95
+321,Rhode Island School of Design,3.22,Bachelor's,New York,F,0,1,0,White,Lawyer,1/16,5/16,N/A,N/A,N/A,N/A,N/A,N/A,0.3
+322,Providence College,2.47,Bachelor's,Chicago,M,1,1,N/A,Asian American & Pacific Islander,Web Developer,4/22,10/22,Graphic Designer,11/22,11/22,Human Resources Manager,12/22,12/22,6.45
+323,New England Institute of Technology,3.11,Master's,San Jose,N/A,N/A,1,N/A,Black,Web Developer,1/15,1/15,Sales Representative,2/15,11/15,Sales Representative,12/15,12/15,4.52
+324,Roger Williams University,3.2,PhD,Phoenix,M,1,1,N/A,White,Graphic Designer,1/21,6/21,Graphic Designer,7/21,9/21,N/A,N/A,N/A,0.48
+325,Rhode Island School of Design,2.36,Bachelor's,San Francisco,F,0,1,1,Other,Data Scientist,9/16,10/16,Web Developer,11/16,12/16,N/A,N/A,N/A,5.62
+326,Providence College,3.41,Bachelor's,Chicago,F,0,1,N/A,Black,Human Resources Manager,8/21,9/21,N/A,N/A,N/A,N/A,N/A,N/A,8.13
+327,Salve Regina University,2.77,Master's,Miami,M,0,0,0,Asian American & Pacific Islander,Web Developer,8/21,10/21,Sales Representative,11/21,11/21,Machine Learning Engineer,12/21,12/21,6.94
+328,Bryant University,3.58,Master's,Los Angeles,F,1,1,N/A,Black,Research Assistant,3/22,12/22,N/A,N/A,N/A,N/A,N/A,N/A,9.9
+329,Providence College,3.13,Bachelor's,New York,N/A,1,1,0,Asian American & Pacific Islander,Human Resources Manager,3/21,9/21,Graphic Designer,10/21,10/21,N/A,N/A,N/A,2.35
+330,Salve Regina University,3.07,Bachelor's,Miami,M,N/A,1,1,Other,Research Assistant,3/17,3/17,Product Manager,4/17,8/17,N/A,N/A,N/A,4.43
+331,Bryant University,2.87,Master's,San Jose,M,1,0,0,Black,Human Resources Manager,9/15,9/15,Machine Learning Engineer,10/15,11/15,Data Scientist,12/15,12/15,9.15
+332,Brown University,2.99,Master's,Houston,F,1,0,1,Asian American & Pacific Islander,Data Scientist,1/20,6/20,N/A,N/A,N/A,N/A,N/A,N/A,1.36
+333,Johnson & Wales University,3.0,Bachelor's,Jacksonville,F,N/A,0,0,White,Research Assistant,1/22,4/22,Data Scientist,5/22,10/22,Software Engineer,11/22,11/22,5.37
+334,Rhode Island School of Design,3.59,Bachelor's,Fort Worth,M,0,0,1,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.28
+335,New England Institute of Technology,3.21,Master's,Charlotte,N/A,1,1,N/A,Native American,Product Manager,5/18,12/18,Data Scientist,1/19,2/19,Sales Representative,3/19,3/19,9.07
+336,Rhode Island School of Design,3.05,Bachelor's,Austin,N/A,0,0,1,Native American,Lawyer,12/21,12/21,Lawyer,1/22,12/22,N/A,N/A,N/A,1.63
+337,New England Institute of Technology,3.14,Bachelor's,Chicago,F,N/A,0,1,Black,Graphic Designer,3/21,11/21,Software Engineer,12/21,12/21,Sales Representative,1/22,4/22,9.44
+338,University of Rhode Island,2.6,Master's,New York,F,0,1,1,Black,Lawyer,9/22,9/22,Human Resources Manager,10/22,12/22,Lawyer,1/23,10/23,0.1
+339,Brown University,3.99,Master's,Providence,M,0,0,0,White,Web Developer,9/20,11/20,Data Scientist,12/20,12/20,Software Engineer,1/21,8/21,7.49
+340,Johnson & Wales University,3.27,Bachelor's,Dallas,M,1,1,0,Other,Product Manager,6/18,11/18,N/A,N/A,N/A,N/A,N/A,N/A,6.52
+341,Johnson & Wales University,2.67,Bachelor's,San Jose,M,N/A,0,N/A,Native American,Financial Analyst,12/15,12/15,Web Developer,1/16,3/16,Financial Analyst,4/16,7/16,1.68
+342,Salve Regina University,3.45,PhD,Charlotte,M,N/A,0,N/A,White,Marketing Coordinator,8/19,8/19,Human Resources Manager,9/19,9/19,N/A,N/A,N/A,4.06
+343,Roger Williams University,2.95,PhD,San Diego,F,1,0,0,White,Sales Representative,9/15,11/15,Financial Analyst,12/15,12/15,N/A,N/A,N/A,3.79
+344,Johnson & Wales University,2.82,Bachelor's,San Francisco,F,1,1,N/A,Asian American & Pacific Islander,Machine Learning Engineer,2/15,5/15,Human Resources Manager,6/15,12/15,N/A,N/A,N/A,2.71
+345,Rhode Island School of Design,3.75,Bachelor's,Boston,N/A,N/A,1,1,Asian American & Pacific Islander,Graphic Designer,2/21,10/21,Human Resources Manager,11/21,12/21,Machine Learning Engineer,1/22,8/22,2.89
+346,University of Rhode Island,3.61,PhD,Chicago,F,1,1,N/A,White,Research Assistant,8/19,10/19,Web Developer,11/19,12/19,Marketing Coordinator,1/20,1/20,6.9
+347,Johnson & Wales University,3.12,PhD,Chicago,N/A,1,1,N/A,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8.04
+348,Brown University,2.41,PhD,Charlotte,F,1,0,N/A,Black,Web Developer,1/19,12/19,Software Engineer,1/20,5/20,Financial Analyst,6/20,6/20,6.25
+349,Rhode Island College,3.24,PhD,Houston,F,N/A,0,1,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.32
+350,Providence College,3.0,Bachelor's,San Francisco,F,1,0,N/A,Black,Research Assistant,5/21,9/21,N/A,N/A,N/A,N/A,N/A,N/A,2.06
+351,Rhode Island College,2.42,Master's,Fort Worth,N/A,0,0,N/A,Black,Sales Representative,5/19,6/19,Sales Representative,7/19,7/19,Marketing Coordinator,8/19,11/19,3.73
+352,New England Institute of Technology,3.37,PhD,Columbus,F,N/A,0,N/A,Other,Machine Learning Engineer,4/21,9/21,Lawyer,10/21,12/21,Product Manager,1/22,5/22,0.06
+353,Rhode Island College,2.71,Bachelor's,San Francisco,M,0,0,1,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1.04
+354,New England Institute of Technology,3.47,PhD,New York,N/A,1,0,0,White,Human Resources Manager,12/19,12/19,Financial Analyst,1/20,1/20,Sales Representative,2/20,8/20,1.96
+355,Johnson & Wales University,3.75,PhD,Houston,N/A,1,1,0,White,Sales Representative,12/22,12/22,Software Engineer,1/23,5/23,Lawyer,6/23,7/23,2.49
+356,Brown University,2.64,Master's,Fort Worth,M,N/A,0,N/A,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.95
+357,Rhode Island School of Design,3.34,Master's,Providence,N/A,0,0,0,Other,Financial Analyst,2/16,10/16,Marketing Coordinator,11/16,11/16,Product Manager,12/16,12/16,7.19
+358,Salve Regina University,2.58,Bachelor's,New York,F,N/A,0,1,Black,Graphic Designer,1/20,4/20,N/A,N/A,N/A,N/A,N/A,N/A,6.62
+359,Brown University,3.78,PhD,New York,N/A,1,1,N/A,Asian American & Pacific Islander,Sales Representative,3/20,7/20,N/A,N/A,N/A,N/A,N/A,N/A,1.95
+360,Johnson & Wales University,2.96,Bachelor's,San Antonio,N/A,1,1,1,Black,Graphic Designer,5/17,5/17,Lawyer,6/17,9/17,Product Manager,10/17,11/17,5.43
+361,Salve Regina University,2.6,Bachelor's,Boston,N/A,0,0,1,Asian American & Pacific Islander,Lawyer,8/17,10/17,Product Manager,11/17,12/17,N/A,N/A,N/A,4.19
+362,New England Institute of Technology,3.65,Bachelor's,Charlotte,M,0,0,1,Asian American & Pacific Islander,Web Developer,9/22,12/22,Machine Learning Engineer,1/23,5/23,N/A,N/A,N/A,9.56
+363,Brown University,3.56,PhD,Providence,M,1,0,0,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,1.3
+364,Johnson & Wales University,2.81,PhD,Charlotte,N/A,0,1,1,Asian American & Pacific Islander,Human Resources Manager,9/15,11/15,Graphic Designer,12/15,12/15,Machine Learning Engineer,1/16,1/16,6.78
+365,Bryant University,3.05,Bachelor's,Los Angeles,F,N/A,0,N/A,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,2.36
+366,Salve Regina University,2.6,Master's,San Francisco,N/A,1,1,1,Black,Marketing Coordinator,5/21,6/21,Lawyer,7/21,9/21,Financial Analyst,10/21,11/21,2.19
+367,New England Institute of Technology,3.28,Master's,Charlotte,M,0,0,0,Asian American & Pacific Islander,Software Engineer,5/17,12/17,Graphic Designer,1/18,5/18,Product Manager,6/18,12/18,2.75
+368,Johnson & Wales University,3.11,Master's,Miami,F,1,1,N/A,Native American,Product Manager,10/16,11/16,Human Resources Manager,12/16,12/16,N/A,N/A,N/A,5.55
+369,Rhode Island College,3.37,Bachelor's,Philadelphia,N/A,0,1,N/A,Asian American & Pacific Islander,Web Developer,7/19,7/19,Human Resources Manager,8/19,10/19,N/A,N/A,N/A,1.7
+370,Brown University,3.18,PhD,San Francisco,F,0,0,0,White,Research Assistant,6/15,9/15,N/A,N/A,N/A,N/A,N/A,N/A,3.27
+371,Brown University,2.62,PhD,Phoenix,N/A,N/A,1,0,Asian American & Pacific Islander,Financial Analyst,12/18,12/18,Research Assistant,1/19,8/19,Product Manager,9/19,10/19,1.36
+372,Johnson & Wales University,3.68,Master's,Dallas,M,0,1,0,Asian American & Pacific Islander,Marketing Coordinator,10/20,12/20,Marketing Coordinator,1/21,2/21,Machine Learning Engineer,3/21,7/21,9.14
+373,University of Rhode Island,3.47,Master's,Chicago,N/A,1,0,1,Black,Machine Learning Engineer,5/17,8/17,N/A,N/A,N/A,N/A,N/A,N/A,2.92
+374,Brown University,2.69,Master's,Columbus,F,0,0,N/A,White,Human Resources Manager,11/22,11/22,Product Manager,12/22,12/22,Sales Representative,1/23,1/23,1.02
+375,University of Rhode Island,3.26,PhD,San Francisco,M,0,0,0,Native American,Software Engineer,8/22,10/22,N/A,N/A,N/A,N/A,N/A,N/A,3.29
+376,Brown University,2.82,Master's,Miami,N/A,1,1,0,Other,Web Developer,5/15,7/15,N/A,N/A,N/A,N/A,N/A,N/A,2.85
+377,Johnson & Wales University,3.25,PhD,Philadelphia,F,1,0,1,White,Product Manager,9/15,10/15,Web Developer,11/15,12/15,Software Engineer,1/16,3/16,8.44
+378,Rhode Island School of Design,3.42,Master's,Fort Worth,M,1,0,0,White,Product Manager,3/21,10/21,Machine Learning Engineer,11/21,11/21,Financial Analyst,12/21,12/21,3.77
+379,Salve Regina University,3.84,Bachelor's,San Antonio,N/A,N/A,1,N/A,White,Machine Learning Engineer,1/17,9/17,Financial Analyst,10/17,12/17,Marketing Coordinator,1/18,8/18,3.65
+380,Rhode Island School of Design,3.2,Bachelor's,San Francisco,F,1,0,N/A,White,Graphic Designer,1/20,12/20,Financial Analyst,1/21,4/21,N/A,N/A,N/A,5.88
+381,Providence College,3.09,Bachelor's,Columbus,F,0,1,1,Other,Software Engineer,6/17,11/17,Human Resources Manager,12/17,12/17,Machine Learning Engineer,1/18,9/18,5.12
+382,Roger Williams University,3.29,PhD,San Jose,F,1,0,N/A,Black,Research Assistant,12/21,12/21,N/A,N/A,N/A,N/A,N/A,N/A,4.5
+383,Brown University,2.95,Bachelor's,San Diego,M,1,0,N/A,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,7.64
+384,Bryant University,3.42,Bachelor's,San Jose,F,1,1,1,White,Lawyer,1/15,9/15,N/A,N/A,N/A,N/A,N/A,N/A,4.09
+385,Bryant University,2.85,Master's,San Francisco,N/A,1,1,1,Asian American & Pacific Islander,Machine Learning Engineer,1/19,10/19,Lawyer,11/19,12/19,Graphic Designer,1/20,11/20,6.93
+386,Rhode Island School of Design,3.55,Bachelor's,New York,N/A,0,0,N/A,Asian American & Pacific Islander,Data Scientist,11/16,11/16,N/A,N/A,N/A,N/A,N/A,N/A,2.32
+387,New England Institute of Technology,3.42,Master's,Phoenix,F,1,1,N/A,Asian American & Pacific Islander,Marketing Coordinator,12/19,12/19,Product Manager,1/20,6/20,N/A,N/A,N/A,4.1
+388,Salve Regina University,3.06,PhD,Phoenix,M,0,0,0,Asian American & Pacific Islander,Research Assistant,6/22,8/22,Software Engineer,9/22,11/22,N/A,N/A,N/A,9.97
+389,Roger Williams University,2.86,PhD,San Francisco,N/A,N/A,0,1,Asian American & Pacific Islander,Financial Analyst,9/17,11/17,N/A,N/A,N/A,N/A,N/A,N/A,8.87
+390,Bryant University,3.88,Master's,San Jose,M,0,0,1,Other,Machine Learning Engineer,4/19,8/19,Graphic Designer,9/19,11/19,Web Developer,12/19,12/19,4.56
+391,Rhode Island College,3.08,Master's,Charlotte,M,1,0,0,Native American,Financial Analyst,10/17,11/17,Data Scientist,12/17,12/17,Graphic Designer,1/18,7/18,5.9
+392,Roger Williams University,2.18,Master's,San Diego,N/A,0,1,1,White,Financial Analyst,12/21,12/21,Web Developer,1/22,10/22,Product Manager,11/22,11/22,3.71
+393,Salve Regina University,2.68,Bachelor's,San Jose,M,1,0,N/A,White,Product Manager,10/18,10/18,Sales Representative,11/18,11/18,N/A,N/A,N/A,8.23
+394,Johnson & Wales University,2.96,PhD,San Antonio,M,0,0,1,White,Lawyer,5/16,6/16,Web Developer,7/16,12/16,Research Assistant,1/17,8/17,3.53
+395,Brown University,4.0,Bachelor's,New York,M,N/A,1,1,White,Graphic Designer,6/17,12/17,Machine Learning Engineer,1/18,6/18,Software Engineer,7/18,11/18,8.07
+396,University of Rhode Island,3.13,PhD,San Diego,F,0,1,N/A,Asian American & Pacific Islander,Product Manager,6/20,8/20,Human Resources Manager,9/20,9/20,Marketing Coordinator,10/20,12/20,3.06
+397,Brown University,2.89,Bachelor's,Dallas,M,0,0,N/A,Native American,Product Manager,3/20,10/20,Research Assistant,11/20,12/20,N/A,N/A,N/A,9.96
+398,Johnson & Wales University,3.66,PhD,Jacksonville,M,N/A,0,N/A,White,Machine Learning Engineer,12/22,12/22,Product Manager,1/23,8/23,Data Scientist,9/23,12/23,3.2
+399,Bryant University,2.99,Master's,San Antonio,M,N/A,0,0,Black,Lawyer,2/18,12/18,Marketing Coordinator,1/19,11/19,Human Resources Manager,12/19,12/19,6.56
+400,New England Institute of Technology,2.39,PhD,San Jose,M,1,1,N/A,Asian American & Pacific Islander,Research Assistant,10/22,12/22,N/A,N/A,N/A,N/A,N/A,N/A,7.28
+401,Brown University,3.29,PhD,Houston,M,1,0,N/A,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.14
+402,Salve Regina University,2.97,PhD,Houston,F,N/A,0,N/A,Other,Data Scientist,11/22,11/22,Machine Learning Engineer,12/22,12/22,Machine Learning Engineer,1/23,1/23,3.95
+403,New England Institute of Technology,2.63,Master's,Los Angeles,N/A,N/A,0,1,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.71
+404,Johnson & Wales University,2.31,Bachelor's,San Diego,M,0,0,1,Other,Marketing Coordinator,7/17,12/17,Software Engineer,1/18,2/18,N/A,N/A,N/A,9.63
+405,Rhode Island School of Design,1.9,Bachelor's,San Antonio,M,0,0,N/A,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.49
+406,Bryant University,3.66,Master's,Charlotte,N/A,N/A,0,1,White,Lawyer,2/16,5/16,Software Engineer,6/16,12/16,Machine Learning Engineer,1/17,12/17,6.56
+407,Salve Regina University,2.89,PhD,Phoenix,M,1,0,N/A,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.43
+408,Johnson & Wales University,2.24,PhD,Miami,N/A,N/A,0,0,Other,Web Developer,12/18,12/18,N/A,N/A,N/A,N/A,N/A,N/A,0.5
+409,Roger Williams University,3.43,PhD,Philadelphia,F,1,1,0,Black,Graphic Designer,7/15,9/15,N/A,N/A,N/A,N/A,N/A,N/A,3.33
+410,Brown University,3.23,Bachelor's,San Antonio,N/A,N/A,1,N/A,Black,Marketing Coordinator,1/22,7/22,Human Resources Manager,8/22,11/22,Data Scientist,12/22,12/22,7.78
+411,Bryant University,2.71,PhD,Austin,N/A,1,0,1,White,Web Developer,6/16,6/16,Lawyer,7/16,7/16,Product Manager,8/16,9/16,2.13
+412,University of Rhode Island,3.16,Master's,Columbus,N/A,N/A,0,1,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.82
+413,Johnson & Wales University,3.66,Master's,San Jose,F,0,0,N/A,Asian American & Pacific Islander,Web Developer,7/16,7/16,Web Developer,8/16,8/16,Product Manager,9/16,11/16,6.61
+414,Providence College,2.9,Bachelor's,New York,N/A,N/A,1,1,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,5.77
+415,Johnson & Wales University,2.78,PhD,Miami,F,N/A,1,1,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,6.98
+416,Rhode Island School of Design,3.24,Bachelor's,Jacksonville,M,0,0,0,Black,Machine Learning Engineer,11/18,12/18,N/A,N/A,N/A,N/A,N/A,N/A,6.74
+417,New England Institute of Technology,3.71,Bachelor's,Chicago,N/A,0,0,1,Native American,Data Scientist,6/16,7/16,Sales Representative,8/16,8/16,Machine Learning Engineer,9/16,9/16,2.38
+418,Johnson & Wales University,3.11,Master's,Boston,M,1,1,1,Asian American & Pacific Islander,Product Manager,12/18,12/18,N/A,N/A,N/A,N/A,N/A,N/A,1.89
+419,Providence College,2.85,PhD,San Antonio,M,N/A,0,0,Native American,Product Manager,5/19,6/19,N/A,N/A,N/A,N/A,N/A,N/A,0.46
+420,Roger Williams University,3.11,Bachelor's,San Jose,M,0,1,1,White,Web Developer,5/19,5/19,Data Scientist,6/19,10/19,Lawyer,11/19,12/19,7.86
+421,Bryant University,3.48,PhD,San Antonio,N/A,N/A,1,0,Native American,Research Assistant,9/22,11/22,Research Assistant,12/22,12/22,Research Assistant,1/23,8/23,5.17
+422,Providence College,3.13,Bachelor's,Miami,F,N/A,0,N/A,Other,Human Resources Manager,7/16,7/16,N/A,N/A,N/A,N/A,N/A,N/A,9.69
+423,Providence College,3.28,PhD,Chicago,F,0,1,N/A,Asian American & Pacific Islander,Web Developer,10/19,11/19,N/A,N/A,N/A,N/A,N/A,N/A,3.2
+424,Rhode Island School of Design,2.81,PhD,Phoenix,N/A,1,1,N/A,Black,Product Manager,4/15,5/15,Graphic Designer,6/15,6/15,Marketing Coordinator,7/15,10/15,9.44
+425,Johnson & Wales University,3.24,Master's,New York,F,N/A,0,1,Black,Research Assistant,4/17,4/17,Research Assistant,5/17,9/17,Financial Analyst,10/17,12/17,1.78
+426,Roger Williams University,3.06,Master's,Phoenix,M,0,1,1,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.51
+427,Salve Regina University,2.88,Bachelor's,Phoenix,F,N/A,0,0,Native American,Marketing Coordinator,12/15,12/15,Machine Learning Engineer,1/16,4/16,Web Developer,5/16,9/16,7.28
+428,Bryant University,2.66,Master's,Los Angeles,M,N/A,0,N/A,Other,Research Assistant,9/20,9/20,Data Scientist,10/20,10/20,Software Engineer,11/20,11/20,5.03
+429,Bryant University,2.91,Bachelor's,Los Angeles,M,1,1,1,Asian American & Pacific Islander,Web Developer,11/16,11/16,Research Assistant,12/16,12/16,N/A,N/A,N/A,9.33
+430,Johnson & Wales University,2.7,PhD,Austin,N/A,0,1,0,Asian American & Pacific Islander,Lawyer,2/19,10/19,Sales Representative,11/19,12/19,Data Scientist,1/20,5/20,8.48
+431,Salve Regina University,3.23,Bachelor's,Boston,N/A,1,1,1,Black,Web Developer,1/21,4/21,Lawyer,5/21,7/21,Sales Representative,8/21,10/21,9.19
+432,Johnson & Wales University,3.19,Master's,Philadelphia,N/A,0,0,1,Black,Data Scientist,5/22,6/22,Product Manager,7/22,8/22,Software Engineer,9/22,10/22,5.87
+433,New England Institute of Technology,3.5,PhD,Austin,M,N/A,0,0,White,Sales Representative,10/16,12/16,Financial Analyst,1/17,10/17,Machine Learning Engineer,11/17,11/17,9.71
+434,Johnson & Wales University,2.81,Master's,Dallas,N/A,N/A,1,N/A,Black,Software Engineer,8/19,10/19,N/A,N/A,N/A,N/A,N/A,N/A,7.58
+435,University of Rhode Island,3.27,PhD,Dallas,N/A,N/A,0,0,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.66
+436,Rhode Island College,3.01,PhD,Los Angeles,F,0,0,0,Black,Research Assistant,10/17,11/17,Product Manager,12/17,12/17,N/A,N/A,N/A,6.64
+437,Bryant University,3.0,PhD,Miami,F,N/A,1,N/A,Asian American & Pacific Islander,Data Scientist,3/22,4/22,Machine Learning Engineer,5/22,7/22,Web Developer,8/22,11/22,4.15
+438,Brown University,3.9,PhD,Austin,N/A,0,0,0,White,Marketing Coordinator,6/17,9/17,N/A,N/A,N/A,N/A,N/A,N/A,1.03
+439,Rhode Island College,2.47,Master's,Providence,N/A,0,0,1,Black,Web Developer,5/18,7/18,Marketing Coordinator,8/18,11/18,Software Engineer,12/18,12/18,9.49
+440,Rhode Island School of Design,2.72,Bachelor's,San Francisco,F,0,1,N/A,Asian American & Pacific Islander,Lawyer,5/16,11/16,Software Engineer,12/16,12/16,Sales Representative,1/17,9/17,7.13
+441,Salve Regina University,2.81,Bachelor's,Providence,F,N/A,1,0,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.43
+442,New England Institute of Technology,2.84,Bachelor's,Fort Worth,M,1,0,N/A,Other,Financial Analyst,6/22,7/22,Financial Analyst,8/22,8/22,Research Assistant,9/22,9/22,7.95
+443,Johnson & Wales University,3.18,Master's,Chicago,F,0,0,N/A,White,Sales Representative,4/20,11/20,Graphic Designer,12/20,12/20,Financial Analyst,1/21,7/21,0.78
+444,New England Institute of Technology,3.82,PhD,Boston,N/A,N/A,0,1,Native American,Research Assistant,12/21,12/21,Research Assistant,1/22,2/22,Graphic Designer,3/22,9/22,3.18
+445,Rhode Island College,3.41,Master's,Austin,F,N/A,0,N/A,Black,Research Assistant,5/16,9/16,Sales Representative,10/16,10/16,N/A,N/A,N/A,9.31
+446,Bryant University,2.68,Bachelor's,San Diego,F,1,1,N/A,Asian American & Pacific Islander,Software Engineer,10/18,12/18,Marketing Coordinator,1/19,12/19,Web Developer,1/20,5/20,8.45
+447,Brown University,2.37,Bachelor's,San Antonio,N/A,N/A,0,1,Other,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0.5
+448,Roger Williams University,3.68,PhD,San Jose,N/A,0,1,N/A,Other,Financial Analyst,2/16,8/16,Research Assistant,9/16,11/16,Software Engineer,12/16,12/16,1.6
+449,Salve Regina University,3.04,Master's,Miami,F,0,0,N/A,Other,Machine Learning Engineer,3/21,5/21,Graphic Designer,6/21,10/21,N/A,N/A,N/A,3.22
+450,Johnson & Wales University,2.39,Bachelor's,Charlotte,N/A,1,1,0,Asian American & Pacific Islander,Product Manager,7/22,8/22,Lawyer,9/22,12/22,Human Resources Manager,1/23,4/23,7.97
+451,Rhode Island College,3.54,PhD,Fort Worth,F,N/A,1,1,Native American,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,8.21
+452,Johnson & Wales University,3.06,PhD,Fort Worth,N/A,0,1,0,Other,Data Scientist,6/17,11/17,Lawyer,12/17,12/17,Financial Analyst,1/18,4/18,2.71
+453,Rhode Island School of Design,3.79,Bachelor's,Charlotte,N/A,N/A,1,N/A,White,Machine Learning Engineer,4/21,4/21,Human Resources Manager,5/21,8/21,Human Resources Manager,9/21,9/21,2.99
+454,Brown University,3.87,PhD,Houston,N/A,N/A,0,1,Native American,Product Manager,6/17,7/17,Financial Analyst,8/17,10/17,Product Manager,11/17,11/17,1.68
+455,Salve Regina University,2.19,PhD,Columbus,N/A,0,1,1,Native American,Financial Analyst,1/15,8/15,Software Engineer,9/15,11/15,Data Scientist,12/15,12/15,0.9
+456,Providence College,3.02,Master's,Chicago,F,0,1,1,Other,Web Developer,5/15,5/15,Marketing Coordinator,6/15,11/15,Product Manager,12/15,12/15,3.08
+457,New England Institute of Technology,2.7,Master's,Columbus,M,1,0,N/A,Other,Sales Representative,3/17,12/17,Human Resources Manager,1/18,10/18,Machine Learning Engineer,11/18,11/18,2.91
+458,Johnson & Wales University,2.43,Bachelor's,San Jose,N/A,0,0,0,White,Financial Analyst,7/18,11/18,Lawyer,12/18,12/18,Sales Representative,1/19,5/19,1.05
+459,University of Rhode Island,3.34,Master's,Charlotte,F,0,0,1,White,Web Developer,11/22,12/22,N/A,N/A,N/A,N/A,N/A,N/A,1.91
+460,Johnson & Wales University,3.08,Bachelor's,Austin,F,0,1,1,Black,Human Resources Manager,7/17,11/17,N/A,N/A,N/A,N/A,N/A,N/A,0.99
+461,Rhode Island School of Design,3.18,Bachelor's,Dallas,N/A,1,0,0,Native American,Sales Representative,7/22,9/22,Sales Representative,10/22,11/22,N/A,N/A,N/A,0.74
+462,New England Institute of Technology,3.14,PhD,New York,M,N/A,0,N/A,White,Human Resources Manager,10/15,11/15,N/A,N/A,N/A,N/A,N/A,N/A,6.99
+463,Rhode Island College,3.24,PhD,Chicago,N/A,N/A,1,N/A,Other,Web Developer,7/22,11/22,N/A,N/A,N/A,N/A,N/A,N/A,8.87
+464,Salve Regina University,3.4,PhD,Fort Worth,F,1,0,1,White,Lawyer,11/19,12/19,Sales Representative,1/20,11/20,Lawyer,12/20,12/20,7.49
+465,Roger Williams University,2.97,PhD,Fort Worth,M,0,0,1,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,3.33
+466,New England Institute of Technology,2.83,PhD,Jacksonville,N/A,0,1,N/A,Asian American & Pacific Islander,Web Developer,1/21,9/21,Financial Analyst,10/21,12/21,N/A,N/A,N/A,2.8
+467,Roger Williams University,3.17,Bachelor's,San Antonio,M,1,1,1,Black,Data Scientist,12/16,12/16,Marketing Coordinator,1/17,3/17,Web Developer,4/17,5/17,9.63
+468,Providence College,3.05,Bachelor's,Los Angeles,M,0,1,0,White,Software Engineer,1/20,10/20,Marketing Coordinator,11/20,12/20,Financial Analyst,1/21,6/21,8.71
+469,Brown University,2.84,Master's,San Antonio,M,1,1,N/A,White,Human Resources Manager,6/17,9/17,Product Manager,10/17,10/17,Machine Learning Engineer,11/17,12/17,8.21
+470,Roger Williams University,3.58,PhD,Chicago,F,1,1,1,Other,Product Manager,1/18,4/18,Financial Analyst,5/18,5/18,Data Scientist,6/18,6/18,8.34
+471,Bryant University,2.44,Master's,Fort Worth,F,0,1,1,White,Software Engineer,6/18,7/18,N/A,N/A,N/A,N/A,N/A,N/A,7.32
+472,Providence College,3.05,Master's,Austin,F,1,0,1,Native American,Research Assistant,10/16,12/16,Product Manager,1/17,8/17,Web Developer,9/17,12/17,5.26
+473,Brown University,2.86,PhD,Boston,F,0,0,0,Asian American & Pacific Islander,Product Manager,1/15,4/15,N/A,N/A,N/A,N/A,N/A,N/A,5.78
+474,Johnson & Wales University,2.59,Master's,San Jose,F,0,1,N/A,Black,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,9.49
+475,Brown University,3.67,PhD,Providence,M,1,0,N/A,Native American,Research Assistant,3/21,8/21,Graphic Designer,9/21,12/21,Research Assistant,1/22,7/22,5.9
+476,Johnson & Wales University,3.58,Master's,Los Angeles,M,0,1,0,Black,Financial Analyst,2/15,3/15,Software Engineer,4/15,9/15,Sales Representative,10/15,11/15,7.54
+477,Providence College,3.15,PhD,Chicago,N/A,1,1,0,Other,Product Manager,8/16,8/16,Graphic Designer,9/16,10/16,Software Engineer,11/16,12/16,6.95
+478,Rhode Island School of Design,3.11,Bachelor's,Providence,M,N/A,1,1,Asian American & Pacific Islander,Financial Analyst,2/21,7/21,Data Scientist,8/21,11/21,Product Manager,12/21,12/21,7.68
+479,Bryant University,3.23,Bachelor's,New York,N/A,N/A,1,0,Asian American & Pacific Islander,Software Engineer,3/16,4/16,Financial Analyst,5/16,10/16,Marketing Coordinator,11/16,12/16,6.85
+480,University of Rhode Island,2.61,PhD,San Antonio,M,0,0,1,Native American,Marketing Coordinator,4/22,5/22,N/A,N/A,N/A,N/A,N/A,N/A,7.44
+481,Rhode Island College,3.31,PhD,San Francisco,M,N/A,0,0,Native American,Research Assistant,3/17,7/17,Human Resources Manager,8/17,8/17,N/A,N/A,N/A,4.26
+482,Johnson & Wales University,2.88,Master's,Columbus,N/A,N/A,1,N/A,Native American,Machine Learning Engineer,12/20,12/20,Graphic Designer,1/21,8/21,Financial Analyst,9/21,12/21,5.3
+483,Brown University,2.33,Bachelor's,Charlotte,N/A,1,0,N/A,Black,Sales Representative,4/18,9/18,N/A,N/A,N/A,N/A,N/A,N/A,1.62
+484,Johnson & Wales University,3.17,PhD,Dallas,N/A,1,1,1,White,Data Scientist,5/17,5/17,Lawyer,6/17,6/17,Data Scientist,7/17,10/17,5.67
+485,Roger Williams University,2.78,Master's,San Diego,N/A,0,1,0,Native American,Graphic Designer,2/20,5/20,Product Manager,6/20,7/20,Web Developer,8/20,11/20,0.52
+486,New England Institute of Technology,2.88,PhD,Chicago,F,N/A,1,0,Asian American & Pacific Islander,Product Manager,8/20,9/20,Software Engineer,10/20,12/20,Data Scientist,1/21,5/21,7.2
+487,New England Institute of Technology,3.18,Bachelor's,Boston,F,N/A,1,0,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.21
+488,Bryant University,3.8,PhD,Phoenix,M,N/A,1,0,Asian American & Pacific Islander,Lawyer,2/15,9/15,Product Manager,10/15,12/15,Financial Analyst,1/16,2/16,7.43
+489,Roger Williams University,3.7,Master's,Fort Worth,F,N/A,1,N/A,Black,Product Manager,8/17,11/17,Lawyer,12/17,12/17,N/A,N/A,N/A,2.05
+490,Bryant University,2.78,Bachelor's,Austin,M,1,0,0,Asian American & Pacific Islander,Data Scientist,7/15,12/15,Research Assistant,1/16,6/16,Software Engineer,7/16,11/16,1.92
+491,Bryant University,3.32,Master's,Chicago,M,1,1,N/A,Black,Lawyer,10/20,12/20,Graphic Designer,1/21,9/21,Financial Analyst,10/21,10/21,3.79
+492,Bryant University,2.65,Bachelor's,Jacksonville,M,N/A,0,N/A,White,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,4.61
+493,Rhode Island College,2.95,PhD,Jacksonville,F,0,1,0,White,Machine Learning Engineer,8/21,12/21,Human Resources Manager,1/22,1/22,N/A,N/A,N/A,3.08
+494,University of Rhode Island,3.91,PhD,San Francisco,F,1,0,1,Native American,Data Scientist,10/21,11/21,Lawyer,12/21,12/21,Graphic Designer,1/22,12/22,2.69
+495,Salve Regina University,3.56,PhD,Phoenix,N/A,0,0,0,Asian American & Pacific Islander,Software Engineer,3/21,8/21,Product Manager,9/21,12/21,N/A,N/A,N/A,0.69
+496,New England Institute of Technology,3.06,PhD,Chicago,M,0,0,1,Other,Financial Analyst,11/19,12/19,Machine Learning Engineer,1/20,7/20,Data Scientist,8/20,11/20,0.77
+497,Rhode Island College,2.79,Master's,Charlotte,N/A,1,0,0,Other,Sales Representative,5/16,11/16,Lawyer,12/16,12/16,Research Assistant,1/17,8/17,9.72
+498,Rhode Island College,3.01,Master's,Fort Worth,N/A,N/A,0,1,Native American,Sales Representative,1/18,5/18,Data Scientist,6/18,9/18,Software Engineer,10/18,11/18,6.49
+499,Rhode Island School of Design,2.68,PhD,Philadelphia,M,N/A,0,1,Black,Marketing Coordinator,4/21,6/21,Web Developer,7/21,8/21,Web Developer,9/21,12/21,3.97
+500,Roger Williams University,3.44,PhD,Miami,M,0,1,1,Black,Data Scientist,6/15,9/15,Data Scientist,10/15,11/15,Product Manager,12/15,12/15,6.91
